@@ -1,0 +1,53 @@
+.Imagemfundo {
+    background-image: url('imagens/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.CorFundo1 {
+        background-color: rgb(150, 150, 150);
+          }
+.Strongsize{
+    font-size: 50px;
+    padding: 15px;
+    margin: auto;
+}
+#CreditosC {
+    color: rgb(206, 0, 0);
+    font-size: xx-large;
+    border: 5px solid black;
+    border-bottom: 3px;
+    margin: auto;
+    padding-left: 10px;
+
+}
+#CreditosH {
+       color: rgb(83, 0, 151);
+       font-size: xx-large;
+       border: 5px solid black;
+       margin: auto;
+       padding-left: 10px;
+
+}
+#CreditosG {
+       color: rgb(14, 0, 141);
+       font-size: xx-large;
+       border: 5px solid black;
+       border-top: 0px;
+       margin: auto;
+       padding-left: 10px; 
+} 
+#Alem {
+    width: 500px;
+    height: 200px;
+    
+}   
+p {
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+    font-size: x-large;
+}
+#ded{
+    width: 200px;
+}
+
